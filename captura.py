@@ -7,7 +7,7 @@ amostra = 1
 numero_amostras = 25
 id = input("Digite seu identificador: ")
 largura , altura = 220, 220
-print("Capturando os rostos...")
+print("Aguardando comando 'q' para captura de imagens...")
 
 while(True):
     conectado, imagem = camera.read()

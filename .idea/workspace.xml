@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b93da8-5fda-4a0f-9574-3240a45af9fa" name="Default" comment="" />
+    <list default="true" id="85b93da8-5fda-4a0f-9574-3240a45af9fa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captura.py" beforeDir="false" afterPath="$PROJECT_DIR$/captura.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,8 @@
       <file leaf-file-name="captura.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/captura.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="110">
+              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -28,6 +31,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,6 +48,7 @@
     <option name="width" value="1750" />
     <option name="height" value="969" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -54,6 +61,11 @@
             <path>
               <item name="faceDetection" type="b2602c69:ProjectViewProjectNode" />
               <item name="faceDetection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faceDetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faceDetection" type="462c0819:PsiDirectoryNode" />
+              <item name="imagens" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +138,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -148,12 +160,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/haarcascade-frontalface-default.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/pessoa.1.1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/pessoa.1.2.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/imagens/pessoa.1.3.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -200,10 +206,16 @@
     <entry file="file://$PROJECT_DIR$/imagens/pessoa.1.8.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/pessoa.1.2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/pessoa.1.1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/captura.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="110">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
         </state>
       </provider>
     </entry>
